@@ -8,324 +8,322 @@
       "CN": "2019-05-30 10:00 2019-06-13 03:59",
       "US": "2020-02-05 16:00 2020-02-19 03:59"
     },
-    "components": [
-      { "type": "main_stage",
-        "currencyPerSanity": 10,
-        "stages": [
-          { "name": "GT-1"
-            "id": "a001_01",
-            "sanityCost": 9,
-            "firstClear": [
-              { "id": "4002",
-                "quantity": 1
-              },
-              { "id": "furni_pizza_exitIndicator_01",
-                "quantity": 1
-              }
-            ],
-            "challengeMode": false
-          },
-          { "name": "GT-2"
-            "id": "a001_02",
-            "sanityCost": 9,
-            "firstClear": [
-              { "id": "4002",
-                "quantity": 1
-              },
-              { "id": "furni_pizza_brickWallSticker_01",
-                "quantity": 1
-              }
-            ],
-            "challengeMode": false
-          },
-          { "name": "GT-3"
-            "id": "a001_03",
-            "sanityCost": 12,
-            "firstClear": [
-              { "id": "4002",
-                "quantity": 1
-              },
-              { "id": "char_220_grani",
-                "quantity": 1
-              }
-            ],
-            "challengeMode": false
-          },
-          { "name": "GT-4"
-            "id": "a001_04",
-            "sanityCost": 12,
-            "firstClear": [
-              { "id": "4002",
-                "quantity": 1
-              },
-              { "id": "furni_pizza_barStool_01",
-                "quantity": 1
-              }
-            ],
-            "challengeMode": false
-          },
-          { "name": "GT-5"
-            "id": "a001_05",
-            "sanityCost": 15,
-            "firstClear": [
-              { "id": "4002",
-                "quantity": 1
-              },
-              { "id": "furni_pizza_chair_L_01",
-                "quantity": 1
-              }
-            ],
-            "challengeMode": false
-          },
-          { "name": "GT-6"
-            "id": "a001_06",
-            "sanityCost": 15,
-            "firstClear": [
-              { "id": "4002",
-                "quantity": 1
-              },
-              { "id": "furni_pizza_chair_R_01",
-                "quantity": 1
-              }
-            ],
-            "challengeMode": false
-          },
-        ]
-      },
-      { "type": "challenge_stage",
-        "timeRange": {
-          "CN": "2019-06-06 16:00 2019-06-13 03:59",
-          "US": "2020-02-12 16:00 2020-02-19 03:59"
+    "main_stage": {
+      "currencyPerSanity": 10,
+      "stages": [
+        { "name": "GT-1",
+          "id": "a001_01",
+          "sanityCost": 9,
+          "firstClear": [
+            { "id": "4002",
+              "quantity": 1
+            },
+            { "id": "furni_pizza_exitIndicator_01",
+              "quantity": 1
+            }
+          ],
+          "challengeMode": false
         },
-        "stages": [
-          { "name": "GT-EX-1",
-            "id": "a001_ex01",
-            "sanityCost": 15,
-            "firstClear": [
-              { "id": "4002",
-                "quantity": 1
-              },
-              { "id": "furni_pizza_abstractArt_01",
-                "quantity": 1
-              }
-            ],
-            "challengeMode": false
-          },
-          { "name": "GT-EX-2",
-            "id": "a001_ex02",
-            "sanityCost": 15,
-            "firstClear": [
-              { "id": "4002",
-                "quantity": 1
-              },
-              { "id": "furni_pizza_chair_F_01",
-                "quantity": 1
-              }
-            ],
-            "challengeMode": false
-          },
-          { "name": "GT-EX-3",
-            "id": "a001_ex03",
-            "sanityCost": 15,
-            "firstClear": [
-              { "id": "4002",
-                "quantity": 1
-              },
-              { "id": "furni_pizza_priceList_01",
-                "quantity": 1
-              }
-            ],
-            "challengeMode": false
-          },
-          { "name": "GT-HX-1",
-            "id": "a001_ex04",
-            "sanityCost": 15,
-            "firstClear": [
-              { "id": "4002",
-                "quantity": 1
-              },
-              { "id": "furni_pizza_cupboard_01",
-                "quantity": 1
-              }
-            ],
-            "challengeMode": true
-          },
-          { "name": "GT-HX-2",
-            "id": "a001_ex05",
-            "sanityCost": 15,
-            "firstClear": [
-              { "id": "4002",
-                "quantity": 1
-              },
-              { "id": "furni_pizza_shelf_01 ",
-                "quantity": 1
-              }
-            ],
-            "challengeMode": true
-          },
-          { "name": "GT-HX-3",
-            "id": "a001_ex06",
-            "sanityCost": 15,
-            "firstClear": [
-              { "id": "4002",
-                "quantity": 1
-              },
-              { "id": "furni_pizza_ceilingLights_01",
-                "quantity": 1
-              },
-              { "id": "furni_pizza_barStool_01",
-                "quantity": 1
-              }
-            ],
-            "challengeMode": true
-          },
-        ]
+        { "name": "GT-2",
+          "id": "a001_02",
+          "sanityCost": 9,
+          "firstClear": [
+            { "id": "4002",
+              "quantity": 1
+            },
+            { "id": "furni_pizza_brickWallSticker_01",
+              "quantity": 1
+            }
+          ],
+          "challengeMode": false
+        },
+        { "name": "GT-3",
+          "id": "a001_03",
+          "sanityCost": 12,
+          "firstClear": [
+            { "id": "4002",
+              "quantity": 1
+            },
+            { "id": "char_220_grani",
+              "quantity": 1
+            }
+          ],
+          "challengeMode": false
+        },
+        { "name": "GT-4",
+          "id": "a001_04",
+          "sanityCost": 12,
+          "firstClear": [
+            { "id": "4002",
+              "quantity": 1
+            },
+            { "id": "furni_pizza_barStool_01",
+              "quantity": 1
+            }
+          ],
+          "challengeMode": false
+        },
+        { "name": "GT-5",
+          "id": "a001_05",
+          "sanityCost": 15,
+          "firstClear": [
+            { "id": "4002",
+              "quantity": 1
+            },
+            { "id": "furni_pizza_chair_L_01",
+              "quantity": 1
+            }
+          ],
+          "challengeMode": false
+        },
+        { "name": "GT-6",
+          "id": "a001_06",
+          "sanityCost": 15,
+          "firstClear": [
+            { "id": "4002",
+              "quantity": 1
+            },
+            { "id": "furni_pizza_chair_R_01",
+              "quantity": 1
+            }
+          ],
+          "challengeMode": false
+        },
+      ]
+    },
+    "challenge_stage": {
+      "timeRange": {
+        "CN": "2019-06-06 16:00 2019-06-13 03:59",
+        "US": "2020-02-12 16:00 2020-02-19 03:59"
       },
-      { "type": "shop",
-        "currency": "1stact",
-        "merchandise": [
-          { "id": "p_char_220_grani",
-            "costPerPurchase": 2400,
-            "purchaseLimit": 1
-          },
-          { "id": "p_char_220_grani",
-            "costPerPurchase": 3000,
-            "purchaseLimit": 1
-          },
-          { "id": "p_char_220_grani",
-            "costPerPurchase": 3600,
-            "purchaseLimit": 1
-          },
-          { "id": "p_char_220_grani",
-            "costPerPurchase": 4200,
-            "purchaseLimit": 1
-          },
-          { "id": "p_char_220_grani",
-            "costPerPurchase": 4800,
-            "purchaseLimit": 1
-          },
-          { "id": "2002",
-            "quantityPerPurchase": 2,
-            "costPerPurchase": 10,
-            "purchaseLimit": 120
-          },
-          { "id": "2003",
-            "quantityPerPurchase": 2,
-            "costPerPurchase": 25,
-            "purchaseLimit": 50
-          },
-          { "id": "2004",
-            "quantityPerPurchase": 2,
-            "costPerPurchase": 50,
-            "purchaseLimit": 25
-          },
-          { "id": "4001",
-            "quantityPerPurchase": 5000,
-            "costPerPurchase": 80,
-            "purchaseLimit": 100
-          },
-          { "id": "3302",
-            "costPerPurchase": 25,
-            "purchaseLimit": 50
-          },
-          { "id": "3303",
-            "costPerPurchase": 50,
-            "purchaseLimit": 25
-          },
-          { "id": "3211",
-            "costPerPurchase": 100,
-            "purchaseLimit": 4
-          },
-          { "id": "30012",
-            "costPerPurchase": 25,
-            "purchaseLimit": 40
-          },
-          { "id": "30032",
-            "costPerPurchase": 35,
-            "purchaseLimit": 25
-          },
-          { "id": "30053",
-            "costPerPurchase": 120,
-            "purchaseLimit": 15
-          },
-          { "id": "30043",
-            "costPerPurchase": 120,
-            "purchaseLimit": 15
-          },
-          { "id": "30014",
-            "costPerPurchase": 350,
-            "purchaseLimit": 10
-          },
-          { "id": "30024",
-            "costPerPurchase": 500,
-            "purchaseLimit": 10
-          },
-          { "id": "30104",
-            "costPerPurchase": 500,
-            "purchaseLimit": 10
-          },
-          { "id": "30115",
-            "costPerPurchase": 1200,
-            "purchaseLimit": 5
-          },
-          { "id": "7003",
-            "costPerPurchase": 1500,
-            "purchaseLimit": 3
-          },
-          { "id": "furni_pizza_brickWallSticker_01",
-            "costPerPurchase": 240,
-            "purchaseLimit": 4
-          },
-          { "id": "furni_pizza_ceilingLights_01",
-            "costPerPurchase": 480,
-            "purchaseLimit": 3
-          },
-          { "id": "furni_pizza_barStool_01",
-            "costPerPurchase": 480,
-            "purchaseLimit": 2
-          },
-          { "id": "furni_pizza_barTable_01",
-            "costPerPurchase": 900,
-            "purchaseLimit": 1
-          },
-          { "id": "furni_pizza_column_01",
-            "costPerPurchase": 1000,
-            "purchaseLimit": 1
-          },
-          { "id": "furni_pizza_wallpaper_01",
-            "costPerPurchase": 1000,
-            "purchaseLimit": 1
-          },
-          { "id": "furni_pizza_floor_01",
-            "costPerPurchase": 1000,
-            "purchaseLimit": 1
-          },
-          { "id": "furni_pizza_diningTable_01",
-            "costPerPurchase": 1000,
-            "purchaseLimit": 1
-          },
-          { "id": "COIN_FURN",
-            "quantityPerPurchase": 100,
-            "costPerPurchase": 300,
-            "purchaseLimit": 10
-          },
-          { "id": "4001",
-            "quantityPerPurchase": 10,
-            "costPerPurchase": 5,
-            "purchaseLimit": null
-          }
-        ]
-      },
-      { "type": "mission",
-        "totalRewards": [
-          { "id": "1stact",
-            "quantity": 9200
-          },
-          { "id": "furni_dropS002_abbeyRoad_01",
-            "quantity": 1
-          }
-        ]
-      }
-    ]
-  }
+      "stages": [
+        { "name": "GT-EX-1",
+          "id": "a001_ex01",
+          "sanityCost": 15,
+          "firstClear": [
+            { "id": "4002",
+              "quantity": 1
+            },
+            { "id": "furni_pizza_abstractArt_01",
+              "quantity": 1
+            }
+          ],
+          "challengeMode": false
+        },
+        { "name": "GT-EX-2",
+          "id": "a001_ex02",
+          "sanityCost": 15,
+          "firstClear": [
+            { "id": "4002",
+              "quantity": 1
+            },
+            { "id": "furni_pizza_chair_F_01",
+              "quantity": 1
+            }
+          ],
+          "challengeMode": false
+        },
+        { "name": "GT-EX-3",
+          "id": "a001_ex03",
+          "sanityCost": 15,
+          "firstClear": [
+            { "id": "4002",
+              "quantity": 1
+            },
+            { "id": "furni_pizza_priceList_01",
+              "quantity": 1
+            }
+          ],
+          "challengeMode": false
+        },
+        { "name": "GT-HX-1",
+          "id": "a001_ex04",
+          "sanityCost": 15,
+          "firstClear": [
+            { "id": "4002",
+              "quantity": 1
+            },
+            { "id": "furni_pizza_cupboard_01",
+              "quantity": 1
+            }
+          ],
+          "challengeMode": true
+        },
+        { "name": "GT-HX-2",
+          "id": "a001_ex05",
+          "sanityCost": 15,
+          "firstClear": [
+            { "id": "4002",
+              "quantity": 1
+            },
+            { "id": "furni_pizza_shelf_01 ",
+              "quantity": 1
+            }
+          ],
+          "challengeMode": true
+        },
+        { "name": "GT-HX-3",
+          "id": "a001_ex06",
+          "sanityCost": 15,
+          "firstClear": [
+            { "id": "4002",
+              "quantity": 1
+            },
+            { "id": "furni_pizza_ceilingLights_01",
+              "quantity": 1
+            },
+            { "id": "furni_pizza_barStool_01",
+              "quantity": 1
+            }
+          ],
+          "challengeMode": true
+        }
+      ]
+    },
+    "shop": {
+      "currency": "1stact",
+      "merchandise": [
+        { "id": "p_char_220_grani",
+          "costPerPurchase": 2400,
+          "purchaseLimit": 1
+        },
+        { "id": "p_char_220_grani",
+          "costPerPurchase": 3000,
+          "purchaseLimit": 1
+        },
+        { "id": "p_char_220_grani",
+          "costPerPurchase": 3600,
+          "purchaseLimit": 1
+        },
+        { "id": "p_char_220_grani",
+          "costPerPurchase": 4200,
+          "purchaseLimit": 1
+        },
+        { "id": "p_char_220_grani",
+          "costPerPurchase": 4800,
+          "purchaseLimit": 1
+        },
+        { "id": "2002",
+          "quantityPerPurchase": 2,
+          "costPerPurchase": 10,
+          "purchaseLimit": 120
+        },
+        { "id": "2003",
+          "quantityPerPurchase": 2,
+          "costPerPurchase": 25,
+          "purchaseLimit": 50
+        },
+        { "id": "2004",
+          "quantityPerPurchase": 2,
+          "costPerPurchase": 50,
+          "purchaseLimit": 25
+        },
+        { "id": "4001",
+          "quantityPerPurchase": 5000,
+          "costPerPurchase": 80,
+          "purchaseLimit": 100
+        },
+        { "id": "3302",
+          "costPerPurchase": 25,
+          "purchaseLimit": 50
+        },
+        { "id": "3303",
+          "costPerPurchase": 50,
+          "purchaseLimit": 25
+        },
+        { "id": "3211",
+          "costPerPurchase": 100,
+          "purchaseLimit": 4
+        },
+        { "id": "30012",
+          "costPerPurchase": 25,
+          "purchaseLimit": 40
+        },
+        { "id": "30032",
+          "costPerPurchase": 35,
+          "purchaseLimit": 25
+        },
+        { "id": "30053",
+          "costPerPurchase": 120,
+          "purchaseLimit": 15
+        },
+        { "id": "30043",
+          "costPerPurchase": 120,
+          "purchaseLimit": 15
+        },
+        { "id": "30014",
+          "costPerPurchase": 350,
+          "purchaseLimit": 10
+        },
+        { "id": "30024",
+          "costPerPurchase": 500,
+          "purchaseLimit": 10
+        },
+        { "id": "30104",
+          "costPerPurchase": 500,
+          "purchaseLimit": 10
+        },
+        { "id": "30115",
+          "costPerPurchase": 1200,
+          "purchaseLimit": 5
+        },
+        { "id": "7003",
+          "costPerPurchase": 1500,
+          "purchaseLimit": 3
+        },
+        { "id": "furni_pizza_brickWallSticker_01",
+          "costPerPurchase": 240,
+          "purchaseLimit": 4
+        },
+        { "id": "furni_pizza_ceilingLights_01",
+          "costPerPurchase": 480,
+          "purchaseLimit": 3
+        },
+        { "id": "furni_pizza_barStool_01",
+          "costPerPurchase": 480,
+          "purchaseLimit": 2
+        },
+        { "id": "furni_pizza_barTable_01",
+          "costPerPurchase": 900,
+          "purchaseLimit": 1
+        },
+        { "id": "furni_pizza_column_01",
+          "costPerPurchase": 1000,
+          "purchaseLimit": 1
+        },
+        { "id": "furni_pizza_wallpaper_01",
+          "costPerPurchase": 1000,
+          "purchaseLimit": 1
+        },
+        { "id": "furni_pizza_floor_01",
+          "costPerPurchase": 1000,
+          "purchaseLimit": 1
+        },
+        { "id": "furni_pizza_diningTable_01",
+          "costPerPurchase": 1000,
+          "purchaseLimit": 1
+        },
+        { "id": "COIN_FURN",
+          "quantityPerPurchase": 100,
+          "costPerPurchase": 300,
+          "purchaseLimit": 10
+        },
+        { "id": "4001",
+          "quantityPerPurchase": 10,
+          "costPerPurchase": 5,
+          "purchaseLimit": null
+        }
+      ]
+    },
+    "mission": {
+      "totalRewards": [
+        { "id": "1stact",
+          "quantity": 9200
+        },
+        { "id": "furni_dropS002_abbeyRoad_01",
+          "quantity": 1
+        }
+      ]
+    }
+  } 
 ]
