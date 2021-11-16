@@ -1,12 +1,189 @@
 [
   {
     "name": {
+      "CN": "公测开服活动",
+      "US": "Opening Event",
+    },
+    "rotating_stages_open": {
+      "timeRange": {
+        "CN": { "start": "2019-05-01 10:00", "end": "2020-05-02 03:59" },
+        "US": { "start": "2020-01-16 09:00", "end": "2020-01-18 03:59" }
+      }
+    }
+    "login": [
+      {
+        "timeRange": {
+          "CN": { "start": "2019-04-30 10:00", "end": "2019-05-12 04:00" },
+          "US": { "start": "2020-01-16", "end": "2020-01-26" }
+        },
+        "rewards": [
+          { "id": "ap_item_amiya",
+            "quantity": 1
+          },
+          { "id": "ap_item_closure",
+            "quantity": 1
+          },
+          { "id": "ap_item_texas",
+            "quantity": 1
+          },
+          { "id": "ap_item_doberm",
+            "quantity": 1
+          },
+          { "id": "ap_item_jesica",
+            "quantity": 1
+          },
+          { "id": "ap_item_blackd",
+            "quantity": 1
+          },
+          { "id": "ap_item_slchan",
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "timeRange": {
+          "CN": { "start": "2019-05-23 04:00", "end": "2019-05-30 04:00" },
+          "US": { "start": "2020-01-22", "end": "2020-01-28" }
+        },
+        "rewards": [
+          { "id": "ap_item_SEC_60",
+            "quantity": 1
+          },
+          { "id": "ap_item_SEC_60",
+            "quantity": 1
+          },
+          { "id": "ap_item_SEC_60",
+            "quantity": 1
+          },
+          { "id": "ap_item_SEC_60",
+            "quantity": 1
+          },
+          { "id": "ap_item_SEC_60",
+            "quantity": 1
+          },
+          { "id": "ap_item_SEC_60",
+            "quantity": 1
+          },
+          { "id": "ap_item_SEC_60",
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "timeRange": {
+          "CN": { "start": "2019-05-30 04:00", "end": "2019-06-13 04:00" },
+          "US": { "start": "2020-02-05 16:00", "end": "2020-02-18 03:59" }
+        },
+        "rewards": [
+          { "id": "ap_item_CaH_200",
+            "quantity": 1
+          },
+          { "id": "ap_item_CaH_200",
+            "quantity": 1
+          },
+          { "id": "ap_item_CaH_200",
+            "quantity": 1
+          },
+          { "id": "ap_item_CaH_200",
+            "quantity": 1
+          },
+          { "id": "ap_item_CaH_200",
+            "quantity": 1
+          },
+          { "id": "ap_item_CaH_200",
+            "quantity": 1
+          },
+          { "id": "ap_item_CaH_200",
+            "quantity": 1
+          },
+          { "id": "ap_item_CaH_200",
+            "quantity": 1
+          },
+          { "id": "ap_item_CaH_200",
+            "quantity": 1
+          },
+          { "id": "ap_item_CaH_200",
+            "quantity": 1
+          },
+          { "id": "ap_item_CaH_200",
+            "quantity": 1
+          },
+          { "id": "ap_item_CaH_200",
+            "quantity": 1
+          },
+          { "id": "ap_item_CaH_200",
+            "quantity": 1
+          },
+          { "id": "ap_item_CaH_200",
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "timeRange": {
+          "CN": { "start": "2019-05-30 10:00", "end": "2019-06-13 10:00" },
+          "US": { "start": "2020-02-05 04:00", "end": "2020-02-19 03:59" }
+        },
+        "rewards": [
+          { "id": "char_120_hibisc@nian#1",
+            "quantity": 1
+          }
+        ]
+      }
+    ]
+    "mission": {
+      "timeRange": {
+        "CN": { "start": "2019-05-23 10:00", "end": "2019-05-30 04:00" },
+        "US": { "start": "2020-01-22 04:00", "end": "2020-02-05 03:59" }
+      },
+      "totalRewards": [
+        { "id": "4006",
+          "quantity": 30
+        },
+        { "id": "3302",
+          "quantity": 10
+        },
+        { "id": "char_282_catap",
+          "quantity": 1
+        },
+        { "id": "tier4_pioneer",
+          "quantity": 4
+        },
+        { "id": "30022",
+          "quantity": 6
+        },
+        { "id": "30032",
+          "quantity": 6
+        },
+        { "id": "30043",
+          "quantity": 3
+        },
+        { "id": "7001",
+          "quantity": 8 
+        },
+        { "id": "7003",
+          "quantity": 1
+        },
+        { "id": "tier4_medic",
+          "quantity": 4
+        },
+        { "id": "4001",
+          "quantity": 45000
+        },
+        { "id": "char_002_amiya@winter#1",
+          "quantity": 1
+        }
+      ]
+    }
+  },
+  {
+    "name": {
       "CN": "骑兵与猎人",
       "US": "Grani and the Knights' Treasure",
     },
     "timeRange": {
-      "CN": "2019-05-30 10:00 2019-06-13 03:59",
-      "US": "2020-02-05 16:00 2020-02-19 03:59"
+      "CN": { "start": "2019-05-30 10:00", "end": "2019-06-13 03:59" },
+      "US": { "start": "2020-02-05 16:00", "end": "2020-02-19 03:59" }
     },
     "main_stage": {
       "currencyPerSanity": 10,
@@ -93,8 +270,8 @@
     },
     "challenge_stage": {
       "timeRange": {
-        "CN": "2019-06-06 16:00 2019-06-13 03:59",
-        "US": "2020-02-12 16:00 2020-02-19 03:59"
+        "CN": { "start": "2019-06-06", "end": "2019-06-13 03:59" },
+        "US": { "start": "2020-02-12", "end": "2020-02-19 03:59" }
       },
       "stages": [
         { "name": "GT-EX-1",
@@ -325,5 +502,5 @@
         }
       ]
     }
-  } 
+  }
 ]
