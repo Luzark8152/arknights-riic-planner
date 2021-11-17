@@ -4,12 +4,12 @@
       "CN": "公测开服活动",
       "US": "Opening Event",
     },
-    "rotating_stages_open": {
+    "rotating_stages_all_open": [ {
       "timeRange": {
         "CN": { "start": "2019-05-01 10:00", "end": "2020-05-02 03:59" },
         "US": { "start": "2020-01-16 09:00", "end": "2020-01-18 03:59" }
       }
-    }
+    } ]
     "login": [
       {
         "timeRange": {
@@ -17,9 +17,9 @@
           "US": { "start": "2020-01-16", "end": null }
         },
         "rewards": [
-          { "id": "4003",
+          [ { "id": "4003",
             "quantity": 3800
-          }
+          } ]
         ]
       },
       {
@@ -28,27 +28,27 @@
           "US": { "start": "2020-01-16", "end": "2020-01-26" }
         },
         "rewards": [
-          { "id": "ap_item_amiya",
-            "quantity": 1
-          },
-          { "id": "ap_item_closure",
-            "quantity": 1
-          },
-          { "id": "ap_item_texas",
-            "quantity": 1
-          },
-          { "id": "ap_item_doberm",
-            "quantity": 1
-          },
-          { "id": "ap_item_jesica",
-            "quantity": 1
-          },
-          { "id": "ap_item_blackd",
-            "quantity": 1
-          },
-          { "id": "ap_item_slchan",
-            "quantity": 1
-          }
+          [ { "id": "ap_item_amiya",
+              "quantity": 1
+          } ],
+          [ { "id": "ap_item_closure",
+              "quantity": 1
+          } ],
+          [ { "id": "ap_item_texas",
+              "quantity": 1
+          } ],
+          [ { "id": "ap_item_doberm",
+              "quantity": 1
+          } ],
+          [ { "id": "ap_item_jesica",
+              "quantity": 1
+          } ],
+          [ { "id": "ap_item_blackd",
+              "quantity": 1
+          } ],
+          [ { "id": "ap_item_slchan",
+              "quantity": 1
+          } ]
         ]
       },
       {
@@ -57,27 +57,27 @@
           "US": { "start": "2020-01-22", "end": "2020-01-28" }
         },
         "rewards": [
-          { "id": "ap_item_SEC_60",
-            "quantity": 1
-          },
-          { "id": "ap_item_SEC_60",
-            "quantity": 1
-          },
-          { "id": "ap_item_SEC_60",
-            "quantity": 1
-          },
-          { "id": "ap_item_SEC_60",
-            "quantity": 1
-          },
-          { "id": "ap_item_SEC_60",
-            "quantity": 1
-          },
-          { "id": "ap_item_SEC_60",
-            "quantity": 1
-          },
-          { "id": "ap_item_SEC_60",
-            "quantity": 1
-          }
+          [ { "id": "ap_item_SEC_60",
+              "quantity": 1
+          } ],
+          [ { "id": "ap_item_SEC_60",
+              "quantity": 1
+          } ],
+          [ { "id": "ap_item_SEC_60",
+              "quantity": 1
+          } ],
+          [ { "id": "ap_item_SEC_60",
+              "quantity": 1
+          } ],
+          [ { "id": "ap_item_SEC_60",
+              "quantity": 1
+          } ],
+          [ { "id": "ap_item_SEC_60",
+              "quantity": 1
+          } ],
+          [ { "id": "ap_item_SEC_60",
+              "quantity": 1
+          } ]
         ]
       },
       {
@@ -86,48 +86,48 @@
           "US": { "start": "2020-02-05 16:00", "end": "2020-02-18 03:59" }
         },
         "rewards": [
-          { "id": "ap_item_CaH_200",
-            "quantity": 1
-          },
-          { "id": "ap_item_CaH_200",
-            "quantity": 1
-          },
-          { "id": "ap_item_CaH_200",
-            "quantity": 1
-          },
-          { "id": "ap_item_CaH_200",
-            "quantity": 1
-          },
-          { "id": "ap_item_CaH_200",
-            "quantity": 1
-          },
-          { "id": "ap_item_CaH_200",
-            "quantity": 1
-          },
-          { "id": "ap_item_CaH_200",
-            "quantity": 1
-          },
-          { "id": "ap_item_CaH_200",
-            "quantity": 1
-          },
-          { "id": "ap_item_CaH_200",
-            "quantity": 1
-          },
-          { "id": "ap_item_CaH_200",
-            "quantity": 1
-          },
-          { "id": "ap_item_CaH_200",
-            "quantity": 1
-          },
-          { "id": "ap_item_CaH_200",
-            "quantity": 1
-          },
-          { "id": "ap_item_CaH_200",
-            "quantity": 1
-          },
-          { "id": "ap_item_CaH_200",
-            "quantity": 1
-          }
+          [ { "id": "ap_item_CaH_200",
+              "quantity": 1
+          } ],
+          [ { "id": "ap_item_CaH_200",
+              "quantity": 1
+          } ],
+          [ { "id": "ap_item_CaH_200",
+              "quantity": 1
+          } ],
+          [ { "id": "ap_item_CaH_200",
+              "quantity": 1
+          } ],
+          [ { "id": "ap_item_CaH_200",
+              "quantity": 1
+          } ],
+          [ { "id": "ap_item_CaH_200",
+              "quantity": 1
+          } ],
+          [ { "id": "ap_item_CaH_200",
+              "quantity": 1
+          } ],
+          [ { "id": "ap_item_CaH_200",
+              "quantity": 1
+          } ],
+          [ { "id": "ap_item_CaH_200",
+              "quantity": 1
+          } ],
+          [ { "id": "ap_item_CaH_200",
+              "quantity": 1
+          } ],
+          [ { "id": "ap_item_CaH_200",
+              "quantity": 1
+          } ],
+          [ { "id": "ap_item_CaH_200",
+              "quantity": 1
+          } ],
+          [ { "id": "ap_item_CaH_200",
+              "quantity": 1
+          } ],
+          [ { "id": "ap_item_CaH_200",
+              "quantity": 1
+          } ],
         ]
       },
       {
@@ -136,9 +136,9 @@
           "US": { "start": "2020-02-05 04:00", "end": "2020-02-19 03:59" }
         },
         "rewards": [
-          { "id": "char_120_hibisc@nian#1",
-            "quantity": 1
-          }
+          [ { "id": "char_120_hibisc@nian#1",
+              "quantity": 1
+          } ]
         ]
       }
     ]
@@ -513,5 +513,271 @@
         }
       ]
     }
+  },
+  {
+    "name": {
+      "CN": "“靶向药物”开放",
+      "US": "New Episode: Necessary Solutions"
+    },
+    "annihilation_stages": {
+      "timeRange": {
+        "CN": { "start": "2019-07-22 04:00", "end": null },
+        "US": { "start": "2020-03-09 04:00", "end": null }
+      },
+      "stages": [
+        {
+          "name": {
+            "CN": "龙门市区",
+            "US": "Lungmen Downtown"
+          },
+          "id": "camp_03"
+        }
+      ]
+    },
+    "campaign_stages": [
+      {
+        "timeRange": {
+          "CN": { "start": "2019-07-09 16:00", "end": null },
+          "US": { "start": "2020-02-26 10:00", "end": null }
+        },
+        "stages": [
+          { "name": "5-1",
+            "id": "main_05-01"
+          },
+          { "name": "5-2",
+            "id": "main_05-02"
+          },
+          { "name": "5-3",
+            "id": "main_05-03"
+          },
+          { "name": "5-4",
+            "id": "main_05-04"
+          },
+          { "name": "5-5",
+            "id": "main_05-05"
+          }
+          { "name": "5-6",
+            "id": "main_05-06"
+          },
+          { "name": "5-7",
+            "id": "main_05-07"
+          },
+          { "name": "5-8",
+            "id": "main_05-08"
+          },
+          { "name": "5-9",
+            "id": "main_05-09"
+          },
+          { "name": "5-10",
+            "id": "main_05-10"
+          },
+          { "name": "5-11",
+            "id": "st_05-01",
+          },
+          { "name": "S5-1",
+            "id": "sub_05-1-1"
+          },
+          { "name": "S5-2",
+            "id": "sub_05-1-2"
+          },
+          { "name": "S5-3",
+            "id": "sub_05-2-1"
+          },
+          { "name": "S5-4",
+            "id": "sub_05-2-2"
+          },
+          { "name": "S5-5",
+            "id": "sub_05-3-1"
+          },
+          { "name": "S5-6",
+            "id": "sub_05-3-2"
+          },
+          { "name": "S5-7",
+            "id": "sub_05-4-1"
+          },
+          { "name": "S5-8",
+            "id": "sub_05-4-2"
+          },
+          { "name": "S5-9",
+            "id": "sub_05-4-3"
+          }
+        ]
+      },
+      {
+        "timeRange": {
+          "CN": { "start": "2019-07-16 16:00", "end": null },
+          "US": { "start": "2020-03-04 16:00", "end": null }
+        },
+        "stages": [
+          { "name": "H5-1",
+            "id": "hard_05-01"
+          },
+          { "name": "H5-2",
+            "id": "hard_05-02"
+          },
+        ]
+      },
+      {
+        "timeRange": {
+          "CN": { "start": "2019-07-30 16:00", "end": null },
+          "US": { "start": "2020-03-11 16:00", "end": null }
+        },
+        "stages": [
+          { "name": "H5-3",
+            "id": "hard_05-03"
+          },
+          { "name": "H5-4",
+            "id": "hard_05-04"
+          },
+        ]
+      }
+    ],
+    "rotating_stages_all_open": [
+      {
+        "timeRange": {
+          "CN": { "start": "2019-07-09 16:00", "end": "2020-07-16 03:59" },
+          "US": { "start": "2020-02-26 10:00", "end": "2020-03-04 03:59" }
+        }
+      },
+      {
+        "timerange": {
+          "CN": { "start": "2019-07-22 04:00", "end": "2020-07-29 03:59" },
+          "US": { "start": "2020-03-09 04:00", "end": "2020-03-16 03:59" }
+        }
+      }
+    ],
+    "login": [
+      {
+        "timeRange": {
+          "CN": { "start": "2019-07-09 16:00", "end": "2019-07-22 03:59" },
+          "US": { "start": "2020-02-20 04:00", "end": "2020-03-05 03:59" }
+        },
+        "rewards": [
+          [
+            { "id": "ap_supply_lt_100",
+              "quantity": 2
+            },
+            { "id": "30103",
+              "quantity": 5
+            }
+          ],
+          [
+            { "id": "ap_supply_lt_100",
+              "quantity": 1
+            },
+            { "id": "4002",
+              "quantity": 1
+            }
+          ],
+          [
+            { "id": "ap_supply_lt_100",
+              "quantity": 1
+            },
+            { "id": "char_284_spot",
+              "quantity": 1
+            }
+          ],
+          [
+            { "id": "ap_supply_lt_100",
+              "quantity": 1
+            },
+            { "id": "7001",
+              "quantity": 5
+            }
+          ],
+          [
+            { "id": "ap_supply_lt_100",
+              "quantity": 1
+            },
+            { "id": "4002",
+              "quantity": 2
+            }
+          ],
+          [
+            { "id": "ap_supply_lt_100",
+              "quantity": 1
+            },
+            { "id": "7003",
+              "quantity": 1
+            }
+          ],
+          [
+            { "id": "ap_supply_lt_100",
+              "quantity": 1
+            },
+            { "id": "32001",
+              "quantity": 2
+            },
+            { "id": "char_181_flower@daily#1",
+              "quantity": 1
+            }
+          ]
+        ]
+      },
+      {
+        "timeRange": {
+          "CN": { "start": "2019-07-22 04:00", "end": "2019-08-05 03:59" },
+          "US": { "start": "2020-03-05 04:00", "end": "2020-03-19 03:59" }
+        },
+        "rewards": [
+          [
+            { "id": "ap_supply_lt_100",
+              "quantity": 2
+            },
+            { "id": "30083",
+              "quantity": 5
+            }
+          ],
+          [
+            { "id": "ap_supply_lt_100",
+              "quantity": 1
+            },
+            { "id": "4002",
+              "quantity": 1
+            }
+          ],
+          [
+            { "id": "ap_supply_lt_100",
+              "quantity": 2
+            }
+          ],
+          [
+            { "id": "ap_supply_lt_100",
+              "quantity": 1
+            },
+            { "id": "7001",
+              "quantity": 5
+            }
+          ],
+          [
+            { "id": "ap_supply_lt_100",
+              "quantity": 1
+            },
+            { "id": "4002",
+              "quantity": 2
+            }
+          ],
+          [
+            { "id": "ap_supply_lt_100",
+              "quantity": 1
+            },
+            { "id": "7003",
+              "quantity": 1
+            }
+          ],
+          [
+            { "id": "ap_supply_lt_100",
+              "quantity": 1
+            },
+            { "id": "32001",
+              "quantity": 2
+            },
+            { "id": "char_117_myrrh@wild#1",
+              "quantity": 1
+            }
+          ]
+        ]
+      }
+    ]
   }
 ]
